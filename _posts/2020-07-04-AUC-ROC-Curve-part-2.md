@@ -11,5 +11,5 @@ date: 2020-07-04
 <p><strong>ویژگی یا Specificity</strong></p>
 <p><img src="/assets/uploads/specificity.svg" alt="Specificity"></p>
 <p><strong>نرخ مثبت غلط یا False Positive Rate</strong></p>
-<p><img src="./assets/uploads/FPR.svg" alt="FPR"></p>
+<p><img src="/assets/uploads/FPR.svg" alt="FPR"></p>
 </div>
