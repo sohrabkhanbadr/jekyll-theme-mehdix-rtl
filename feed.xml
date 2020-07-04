@@ -8,7 +8,7 @@
 
   <id>http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/</id>
   <title type="text" xml:lang="fa">برچسب گذاری خودکار اطلاعات موسیقیایی</title>
-  <updated>2020-07-04T10:10:21Z</updated>
+  <updated>2020-07-04T10:12:18Z</updated>
   <rights>Commons Attribution 4.0 International</rights>
 
   <author>
@@ -35,7 +35,7 @@
 
 # تعریف عبارت های استفاده شده در منحنی های ROC و AUC
 
-** نرخ مثبت صحیح  یا True Positive Rate / بازخوانی یا recall / حساسیت یا Sensitivity**
+**نرخ مثبت صحیح  یا True Positive Rate / بازخوانی یا recall / حساسیت یا Sensitivity** 
 
 ![TPR](/assets/uploads/TPR.svg)
 
@@ -43,7 +43,7 @@
 
 ![Specificity](/assets/uploads/specificity.svg)
 
-**نرخ مثبت غلط یا False Positive Rate **
+**نرخ مثبت غلط یا False Positive Rate**
 
 ![FPR](/assets/uploads/FPR.svg)
 
@@ -59,7 +59,7 @@
 
 # تعریف عبارت های استفاده شده در منحنی های ROC و AUC
 
-** نرخ مثبت صحیح  یا True Positive Rate / بازخوانی یا recall / حساسیت یا Sensitivity**
+**نرخ مثبت صحیح  یا True Positive Rate / بازخوانی یا recall / حساسیت یا Sensitivity** 
 
 ![TPR](/assets/uploads/TPR.svg)
 
@@ -67,7 +67,7 @@
 
 ![Specificity](/assets/uploads/specificity.svg)
 
-**نرخ مثبت غلط یا False Positive Rate **
+**نرخ مثبت غلط یا False Positive Rate**
 
 ![FPR](/assets/uploads/FPR.svg)
 
