@@ -12,15 +12,15 @@ date: 2020-07-04
 
 ** نرخ مثبت صحیح  یا True Positive Rate / بازخوانی یا recall / حساسیت یا Sensitivity**
 
-![TPR](assets/uploads/TPR.svg)
+![TPR](/assets/uploads/TPR.svg)
 
 **ویژگی یا Specificity**
 
-![Specificity](assets/uploads/specificity.svg)
+![Specificity](/assets/uploads/specificity.svg)
 
 **نرخ مثبت غلط یا False Positive Rate **
 
-![FPR](assets/uploads/FPR.svg)
+![FPR](/assets/uploads/FPR.svg)
 
 
 </div>
