@@ -8,7 +8,7 @@
 
   <id>http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/</id>
   <title type="text" xml:lang="fa">برچسب گذاری خودکار اطلاعات موسیقیایی</title>
-  <updated>2020-07-04T10:08:21Z</updated>
+  <updated>2020-07-04T10:10:21Z</updated>
   <rights>Commons Attribution 4.0 International</rights>
 
   <author>
@@ -37,15 +37,15 @@
 
 ** نرخ مثبت صحیح  یا True Positive Rate / بازخوانی یا recall / حساسیت یا Sensitivity**
 
-![TPR](assets/uploads/TPR.svg)
+![TPR](/assets/uploads/TPR.svg)
 
 **ویژگی یا Specificity**
 
-![Specificity](assets/uploads/specificity.svg)
+![Specificity](/assets/uploads/specificity.svg)
 
 **نرخ مثبت غلط یا False Positive Rate **
 
-![FPR](assets/uploads/FPR.svg)
+![FPR](/assets/uploads/FPR.svg)
 
 
 </div>
@@ -61,15 +61,15 @@
 
 ** نرخ مثبت صحیح  یا True Positive Rate / بازخوانی یا recall / حساسیت یا Sensitivity**
 
-![TPR](assets/uploads/TPR.svg)
+![TPR](/assets/uploads/TPR.svg)
 
 **ویژگی یا Specificity**
 
-![Specificity](assets/uploads/specificity.svg)
+![Specificity](/assets/uploads/specificity.svg)
 
 **نرخ مثبت غلط یا False Positive Rate **
 
-![FPR](assets/uploads/FPR.svg)
+![FPR](/assets/uploads/FPR.svg)
 
 
 
