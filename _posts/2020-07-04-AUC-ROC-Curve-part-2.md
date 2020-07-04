@@ -10,7 +10,7 @@ date: 2020-07-04
 
 # تعریف عبارت های استفاده شده در منحنی های ROC و AUC
 
-** نرخ مثبت صحیح  یا True Positive Rate / بازخوانی یا recall / حساسیت یا Sensitivity**
+**نرخ مثبت صحیح  یا True Positive Rate / بازخوانی یا recall / حساسیت یا Sensitivity** 
 
 ![TPR](/assets/uploads/TPR.svg)
 
@@ -18,7 +18,7 @@ date: 2020-07-04
 
 ![Specificity](/assets/uploads/specificity.svg)
 
-**نرخ مثبت غلط یا False Positive Rate **
+**نرخ مثبت غلط یا False Positive Rate**
 
 ![FPR](/assets/uploads/FPR.svg)
 
